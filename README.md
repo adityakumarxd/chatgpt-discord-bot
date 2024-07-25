@@ -1,4 +1,4 @@
-# ChatGPT Discord Bot
+# ChatGPT Discord Bot ⭐️⭐️⭐️⭐️⭐️
 
 A Discord bot that integrates with OpenAI's GPT-3.5-turbo to answer questions via slash commands and text commands.
 
