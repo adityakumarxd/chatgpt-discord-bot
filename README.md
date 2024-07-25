@@ -10,7 +10,7 @@ A Discord bot that integrates with OpenAI's GPT-3.5-turbo to answer questions vi
 
 ## Prerequisites
 
-1. Python 3.8 or higher
+1. Python 3.10 or higher
 2. `pip` (Python package installer)
 
 ## Setup
@@ -63,7 +63,7 @@ Once the bot is running, you can use the following commands in your Discord serv
 Slash Command: /ask <question> - Use this command to ask a question and get an answer from GPT-3.5-turbo.
 Text Command: .ask <question> - Same as the slash command, but uses the text command format.
 
-Contact
+## Contact
 For any questions or feedback, please contact me on Discord `akxd`.
 
 
